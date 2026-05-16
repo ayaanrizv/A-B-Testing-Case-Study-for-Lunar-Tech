@@ -51,6 +51,12 @@ A digital platform is comparing two webpage layouts to identify which version dr
 - The script simulates click behavior for both groups and computes click-through rates.
 - Statistical analysis is then performed to determine whether the updated design produces a meaningful improvement in engagement.
 
+## 📊 A/B Test Dashboard Overview
+
+<img width="1416" height="792" alt="image" src="https://github.com/user-attachments/assets/53326399-4352-458e-a03a-8808b1354ab2" />
+
+*Dashboard showing CTR comparison and trend over time.*
+
 ## Conclusion
 
 ### Key Insights
