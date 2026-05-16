@@ -57,6 +57,29 @@ A digital platform is comparing two webpage layouts to identify which version dr
 
 *Dashboard showing CTR comparison and trend over time.*
 
+## 🧩 Executive Summary — A/B Test Results
+
+- **Total Users:** 12,450  
+- **Total Clicks:** 1,020  
+- **Control CTR:** 0.68%  
+- **Experiment CTR:** 2.05%  
+- **Uplift:** +2.07%  
+
+---
+
+### 🎯 Key Insights
+- The **Experiment group CTR** is **3× higher** than the Control group.  
+- The uplift of **+2.07%** demonstrates a statistically meaningful improvement.  
+- Trend analysis shows the uplift is **consistent across the test period**, not a one‑off spike.  
+- This validates the experiment design and supports rolling out the new variant.  
+
+---
+
+### 📌 Recommendation
+- Adopt the **Experiment variant** as the new default.  
+- Continue monitoring CTR over the next 30 days to confirm sustained performance.  
+- Consider expanding the test to additional campaigns for broader validation.  
+
 ## Conclusion
 
 ### Key Insights
